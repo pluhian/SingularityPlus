@@ -1,15 +1,9 @@
-# Singularity
-Singularity is a KSP mod aimed at adding black hole shaders, including gravitational lensing and accretion disk.
+# Singularity+
+Singularity+ is a fork of another KSP mod (Singularity) which aimed at adding ray-traced black hole shaders, gravitational lensing, wormholes, etc.
+This fork incorporates jcyuan06s PR on adding doppler effects within Singularities source, this is technically a seperate version of Singularity rather then an addon (you either use Singularity or Singularity+)
+  
+Singularitys original Repository: https://github.com/LGhassen/Singularity
+  
+the PR that this fork of Singularity incorporates: https://github.com/LGhassen/Singularity/pull/8
 
 WIP
-
-Other possible uses include wormholes, stars with gravitational lensing, “white holes” ( a sort of black hole with negative gravity, pushing away light).
-
-This is not a physically correct simulation. The idea is relatively sound, and the force exerted by gravity fades by the square of the distance, but no real physical equations or constants are used.
-
-The shader is based on Pim Schreurs’ Interstellar simulation: https://github.com/sirxemic/Interstellar
-
-  
-Original Forum thread: https://forum.kerbalspaceprogram.com/index.php?/topic/193709-wip18x-19x-singularity-black-hole-shaders/
-
-Original Documentation: https://github.com/LGhassen/Singularity/wiki
